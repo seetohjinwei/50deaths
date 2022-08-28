@@ -12,6 +12,15 @@ Detailed below are both gameplay details and implementation details, along with 
 
 This game is built as a final project for CS50: Intro to Game Development. There is no commit history because this was developed in another repository!
 
+## Launching the Game
+
+There are no pre-compiled binaries available for the game.
+
+1. Download the latest release [here](https://github.com/seetohjinwei/50deaths/releases).
+2. Download LÖVE Framework (recommended: version 11.4).
+3. Navigate to the root directory of the game.
+4. Run LÖVE on the repository, e.g. `love .`
+
 ## Starting the Game
 
 After launching the game, the player can select "Play" from the Start screen to start playing the game. Otherwise, they can select "Quit" from the Start screen to quit the game.
